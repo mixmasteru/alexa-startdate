@@ -1,7 +1,10 @@
+# Sterndatum Alexa Skill
+
+### Info
 Frage Alexa nach dem aktuellem Sterndatum, wie es in Star Treks The Next Generation, Deep Space Nine, und Voyager benutzt wird.
 
 
-
+### Beschreibung
 Jeder Fan der Star Trek Filme und Serien kennt die Sternzeit, die z.B. Jean-Luc Picard in das Logbuch des Raumschiffs einträgt.
 
 Fraga z.B: "Alexa, gib mir die Sternzeit" und du bekommst die aktuelle Sternzeit als Antwort.
